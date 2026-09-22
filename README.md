@@ -1,5 +1,5 @@
-README – Next Word Prediction using LSTM
-
+**Next Word Prediction using LSTM
+**
 Overview
 This project builds a next word prediction model using TensorFlow and Keras. It reads a text file and predicts the next word in a given sentence.
 
@@ -56,3 +56,6 @@ Better dataset gives better results
 
 Conclusion
 This project demonstrates how LSTM can be used for next word prediction in natural language processing
+
+**use python version 3.10
+**
